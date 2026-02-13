@@ -56,7 +56,7 @@ const HeroSection = () => (
 
       <p className="text-xl text-gray-600 mb-8 font-light">
         Proses cepat, legal, dan didampingi sampai jadi. <br className="hidden md:block" />
-        <span className="font-medium text-gray-900">Mulai konsultasi sekarang!</span>
+        <span className="font-medium text-gray-900">Melayani di Seluruh Indonesia</span>
       </p>
 
       <div className="bg-white p-6 md:p-8 rounded-2xl shadow-xl border border-gray-100 max-w-2xl mx-auto mb-10">
