@@ -196,7 +196,7 @@ const WhyUsSection = () => (
     <div className="flex flex-col md:flex-row items-center gap-12">
       <div className="md:w-1/2">
         <img
-          src="https://drive.google.com/thumbnail?id=1AeIuyisaMhL9RT94wDhmgvP5Q9j4Q5ru&sz=w1000"
+          src="/why-us.png"
           alt="Tim Sobat Legalku"
           className="rounded-2xl shadow-2xl w-full h-auto object-cover transform md:-rotate-1 hover:rotate-0 transition-transform duration-500"
         />

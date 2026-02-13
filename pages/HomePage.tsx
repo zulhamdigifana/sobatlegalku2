@@ -75,7 +75,7 @@ const HeroSection = () => (
         </Button>
       </div>
       <p className="mt-6 text-sm text-gray-500 flex items-center justify-center gap-2">
-        <CheckCircle2 size={16} className="text-green-500" /> Proses Cepat & Online
+        <CheckCircle2 size={16} className="text-green-500" /> Proses Cepat & Online, di Seluruh Indonesia
       </p>
     </div>
   </section>
@@ -211,7 +211,7 @@ const WhyUsSection = () => (
         <div className="absolute -top-4 -left-4 w-24 h-24 bg-brand-100 rounded-full mix-blend-multiply filter blur-xl opacity-70 group-hover:opacity-100 transition-opacity"></div>
         <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-blue-100 rounded-full mix-blend-multiply filter blur-xl opacity-70 group-hover:opacity-100 transition-opacity"></div>
         <img
-          src="https://drive.google.com/thumbnail?id=1AeIuyisaMhL9RT94wDhmgvP5Q9j4Q5ru&sz=w1000"
+          src="/why-us.png"
           alt="Tim Sobat Legalku Profesional"
           className="relative rounded-2xl shadow-2xl w-full h-auto object-cover transform transition-transform duration-500 hover:scale-[1.01]"
         />
@@ -317,7 +317,7 @@ const FAQSection = () => (
         />
         <FAQItem
           question="Apakah legal & resmi?"
-          answer="Ya, sangat resmi. Badan hukummu akan terdaftar di sistem AHU Kementerian Hukum dan HAM Republik Indonesia serta mendapatkan NIB dari OSS."
+          answer="Ya, sangat resmi. Badan hukum anda akan terdaftar di sistem AHU Kementerian Hukum Republik Indonesia."
         />
       </div>
       <div className="text-center mt-10">

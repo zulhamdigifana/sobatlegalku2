@@ -166,7 +166,7 @@ const WhyUsSection = () => (
         <div className="absolute -top-4 -left-4 w-24 h-24 bg-brand-100 rounded-full mix-blend-multiply filter blur-xl opacity-70 group-hover:opacity-100 transition-opacity"></div>
         <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-blue-100 rounded-full mix-blend-multiply filter blur-xl opacity-70 group-hover:opacity-100 transition-opacity"></div>
         <img
-          src="https://drive.google.com/thumbnail?id=1AeIuyisaMhL9RT94wDhmgvP5Q9j4Q5ru&sz=w1000"
+          src="/why-us.png"
           alt="Tim Sobat Legalku Professional"
           className="relative rounded-2xl shadow-2xl w-full h-auto object-cover transform transition-transform duration-500 hover:scale-[1.01]"
         />
